@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTMxZW45MjRranVsbGduYmxuZW0zODI1MWh1d3Nqd2FlbGlsYjFmZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/qUABlXKRRvfQobzIXp/giphy.gif" width="400px" > <br>
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTMxZW45MjRranVsbGduYmxuZW0zODI1MWh1d3Nqd2FlbGlsYjFmZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/qUABlXKRRvfQobzIXp/giphy.gif" width="300px" > <br>
 <h1>I'm Maksym Sozykin</h1>
 </div>
 
